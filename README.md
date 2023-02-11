@@ -4,4 +4,4 @@
 
 2] Files and Modules - https://github.com/devopskvk/TerraformZeroToHero/blob/main/Filesandmodules.md
 
-3] Ec2instancecreation using terraform help - https://github.com/devopskvk/TerraformZeroToHero/blob/main/Ec2instancecreationusinghelp.md
+3] Ec2 instance creation using terraform help - https://github.com/devopskvk/TerraformZeroToHero/blob/main/Ec2instancecreationusinghelp.md
