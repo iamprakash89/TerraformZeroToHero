@@ -69,7 +69,7 @@ I have intentially modified the configuration on the below file for testing
 ```
 [root@terraform prodapp]# cat resource.tf
 provider "aws43" {  <========= wrongly updated the provider
-  region = "us-west-2b"
+  region = "us-west-2"
   access_key = "youraccesskey"
   secret_key = "yoursecrectkey"
 }
