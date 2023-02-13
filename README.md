@@ -11,3 +11,5 @@
 5] Using output valus - https://github.com/devopskvk/TerraformZeroToHero/blob/main/OutputValues.md
 
 6] Passing attribute values to other resource input - https://github.com/devopskvk/TerraformZeroToHero/blob/main/passing_attributevalue_another_resource.md
+
+7] format and validation - https://github.com/devopskvk/TerraformZeroToHero/blob/main/fmtvsvalidation.md
