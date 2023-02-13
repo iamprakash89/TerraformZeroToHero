@@ -8,4 +8,6 @@
 
 4] Using Input Variable values - https://github.com/devopskvk/TerraformZeroToHero/blob/main/InputVariables.md
 
-5] using output valus - https://github.com/devopskvk/TerraformZeroToHero/blob/main/OutputValues.md
+5] Using output valus - https://github.com/devopskvk/TerraformZeroToHero/blob/main/OutputValues.md
+
+6] Passing attribute values to other resource input - https://github.com/devopskvk/TerraformZeroToHero/blob/main/passing_attributevalue_another_resource.md
