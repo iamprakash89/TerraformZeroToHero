@@ -13,3 +13,5 @@
 6] Passing attribute values to other resource input - https://github.com/devopskvk/TerraformZeroToHero/blob/main/passing_attributevalue_another_resource.md
 
 7] format and validation - https://github.com/devopskvk/TerraformZeroToHero/blob/main/fmtvsvalidation.md
+
+8] Variable Assignements - https://github.com/devopskvk/TerraformZeroToHero/blob/main/TypesOfvariableAssignments.md
