@@ -28,7 +28,7 @@ After adding your specific resource, use the terraform init command and check th
 ```
 [root@terraform prodapp]# cat resource.tf
 provider "aws" {
-  region = "us-west-2b"
+  region = "us-west-2"
   access_key = "youraccesskey"
   secret_key = "yoursecrectkey"
 }
