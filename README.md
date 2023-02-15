@@ -15,3 +15,5 @@
 7] format and validation - https://github.com/devopskvk/TerraformZeroToHero/blob/main/fmtvsvalidation.md
 
 8] Variable Assignements - https://github.com/devopskvk/TerraformZeroToHero/blob/main/TypesOfvariableAssignments.md
+
+9] Terraform state - https://github.com/devopskvk/TerraformZeroToHero/blob/main/State.md
