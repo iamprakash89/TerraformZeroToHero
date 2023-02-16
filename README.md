@@ -17,3 +17,5 @@
 8] Variable Assignements - https://github.com/devopskvk/TerraformZeroToHero/blob/main/TypesOfvariableAssignments.md
 
 9] Terraform state - https://github.com/devopskvk/TerraformZeroToHero/blob/main/State.md
+
+10] Terraform import - https://github.com/devopskvk/TerraformZeroToHero/blob/main/import.md
