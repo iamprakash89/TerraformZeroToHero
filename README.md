@@ -19,3 +19,5 @@
 9] Terraform state - https://github.com/devopskvk/TerraformZeroToHero/blob/main/State.md
 
 10] Terraform import - https://github.com/devopskvk/TerraformZeroToHero/blob/main/import.md
+
+11] Terraform graph - https://github.com/devopskvk/TerraformZeroToHero/blob/main/graph.md
