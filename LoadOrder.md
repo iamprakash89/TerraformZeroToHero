@@ -5,7 +5,7 @@ When you are maintaining a large infrastructure it is not possible to keep every
 So, the configuration will be keep in the file as per the requirement.
 
 1) While loading the configurtion, the files will be taken alphabetic order wise.
-2) The .tf and .tf.json file only consider to load the configuration other files are ignored.
+2) The ```.tf``` and ```.tf.json``` file only consider to load the configuration other files are ignored.
 3) Override file used when you want to create a resource using the same. 
 
 
