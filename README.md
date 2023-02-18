@@ -29,3 +29,5 @@
 14] Terraform Debugging - https://github.com/devopskvk/TerraformZeroToHero/blob/main/terraformdebugging.md
 
 15] Teraform LoadOrder - https://github.com/devopskvk/TerraformZeroToHero/blob/main/LoadOrder.md
+
+16] Terraform DynamicBlocks and Iterator -  https://github.com/devopskvk/TerraformZeroToHero/blob/main/DynamicBlocksandIterator.md
