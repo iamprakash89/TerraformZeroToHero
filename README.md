@@ -27,3 +27,5 @@
 13] Terrafrom In-Place-Upgrade - https://github.com/devopskvk/TerraformZeroToHero/blob/main/in-place-upgrad.md
 
 14] Terraform Debugging - https://github.com/devopskvk/TerraformZeroToHero/blob/main/terraformdebugging.md
+
+15] Teraform LoadOrder - https://github.com/devopskvk/TerraformZeroToHero/blob/main/LoadOrder.md
