@@ -23,3 +23,5 @@
 11] Terraform graph - https://github.com/devopskvk/TerraformZeroToHero/blob/main/graph.md
 
 12] Terraform lifecylce - https://github.com/devopskvk/TerraformZeroToHero/blob/main/lifecycle.md
+
+13] Terrafrom In-Place-Upgrade - https://github.com/devopskvk/TerraformZeroToHero/blob/main/in-place-upgrad.md
