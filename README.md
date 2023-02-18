@@ -21,3 +21,5 @@
 10] Terraform import - https://github.com/devopskvk/TerraformZeroToHero/blob/main/import.md
 
 11] Terraform graph - https://github.com/devopskvk/TerraformZeroToHero/blob/main/graph.md
+
+12] Terraform lifecylce - https://github.com/devopskvk/TerraformZeroToHero/blob/main/lifecycle.md
