@@ -25,3 +25,5 @@
 12] Terraform lifecylce - https://github.com/devopskvk/TerraformZeroToHero/blob/main/lifecycle.md
 
 13] Terrafrom In-Place-Upgrade - https://github.com/devopskvk/TerraformZeroToHero/blob/main/in-place-upgrad.md
+
+14] Terraform Debugging - https://github.com/devopskvk/TerraformZeroToHero/blob/main/terraformdebugging.md
