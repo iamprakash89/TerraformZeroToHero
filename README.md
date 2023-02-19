@@ -33,3 +33,5 @@
 16] Terraform DynamicBlocks and Iterator -  https://github.com/devopskvk/TerraformZeroToHero/blob/main/DynamicBlocksandIterator.md
 
 17] Terraform Modules - https://developer.hashicorp.com/terraform/tutorials/modules/module-create
+
+18] Terraform DataSource - https://github.com/devopskvk/TerraformZeroToHero/blob/main/Datasource.md
