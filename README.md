@@ -35,3 +35,5 @@
 17] Terraform Modules - https://developer.hashicorp.com/terraform/tutorials/modules/module-create
 
 18] Terraform DataSource - https://github.com/devopskvk/TerraformZeroToHero/blob/main/Datasource.md
+
+19] Terraform Tainting - https://github.com/devopskvk/TerraformZeroToHero/blob/main/Tainting.md
