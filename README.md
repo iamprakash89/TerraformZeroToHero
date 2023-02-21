@@ -41,3 +41,5 @@
 20] Terraform Splat - https://github.com/devopskvk/TerraformZeroToHero/blob/main/splat.md
 
 21] Terraform Provisioners- File - https://github.com/devopskvk/TerraformZeroToHero/blob/main/Provisoner-File.md
+
+22] Terraform Provisioners - local-exec - https://github.com/devopskvk/TerraformZeroToHero/blob/main/local-exec.md
