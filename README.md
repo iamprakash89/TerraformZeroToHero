@@ -39,3 +39,5 @@
 19] Terraform Tainting - https://github.com/devopskvk/TerraformZeroToHero/blob/main/Tainting.md
 
 20] Terraform Splat - https://github.com/devopskvk/TerraformZeroToHero/blob/main/splat.md
+
+21] Terraform Provisioners- File - https://github.com/devopskvk/TerraformZeroToHero/blob/main/Provisoner-File.md
