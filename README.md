@@ -43,3 +43,5 @@
 21] Terraform Provisioners- File - https://github.com/devopskvk/TerraformZeroToHero/blob/main/Provisoner-File.md
 
 22] Terraform Provisioners - local-exec - https://github.com/devopskvk/TerraformZeroToHero/blob/main/local-exec.md
+
+23] Terraform Provisioners - remote-exec - https://github.com/devopskvk/TerraformZeroToHero/blob/main/Terraform-Remote-exec.md
